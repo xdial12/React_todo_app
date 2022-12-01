@@ -1,7 +1,4 @@
 # React_todo_app
-
-# todo_app
-# TODO_APP
 ```
 Let’s make simple TODO_APP. Where Users can add task & keep the track.
 To make the project simple, we do not have a sign/login function.
